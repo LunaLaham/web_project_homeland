@@ -1,9 +1,9 @@
 .place__title{
-    color: #FFFFFF;        
+    color: #FFFFFF;
     font-size: 72px;
     font-weight: 800;
-    line-height: 76px;        
-    grid-column-start: 1;    
+    line-height: 76px;
+    grid-column-start: 1;
     grid-row-start: 1;
       
 }
