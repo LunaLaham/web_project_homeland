@@ -9,7 +9,7 @@
 @media screen and (min-width: 320px) and (max-width: 767px){
     .grid__item{
         width: 400px;
-        height: 230px;     
+        height: 230px;
         align-items: center;  
     }
 }
