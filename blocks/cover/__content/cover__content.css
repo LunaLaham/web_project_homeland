@@ -1,0 +1,12 @@
+.cover__content{
+    background-image: url(../../../images/__background.png);
+    padding: 200px;
+    background-size: cover;
+}
+
+@media screen and (min-width: 320px) and (max-width: 768px){
+    .cover__content{
+        margin-left: 100px;
+        
+    }
+}

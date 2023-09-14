@@ -1,0 +1,18 @@
+.intro__text_segundo{    
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 26.08px;
+    font-style: normal;
+    font-family: inter;
+    margin-top: 42px;
+}
+
+@media screen and (min-width: 320px) and (max-width: 768px){
+    .intro__text_segundo{
+        font-size: 20px;
+        
+       
+     
+
+    }
+}

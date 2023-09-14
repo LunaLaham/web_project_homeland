@@ -1,0 +1,21 @@
+.place__button{
+    color: #FFFFFF;
+    width: 340px;
+    height: 40px;
+    font-size: 18px;
+    font-weight: 400px;
+    background-color: #0278FE;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 20px;      
+    grid-column-start: 1;
+    grid-row-start: 3;
+}
+
+.place__button:hover{
+    background-color:#0063D2;
+    transition: 1s;
+    cursor: pointer;
+}
+
+

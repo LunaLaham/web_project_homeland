@@ -1,0 +1,24 @@
+.cover__content-button{
+    width: 200px;
+    height: 40px;
+    background-color:  #0278FE;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 15px;
+    color: #FFFF;
+    position: relative;
+    margin-top: 50px;
+    margin-left: 260px;
+  }
+
+  .cover__content-button:hover{
+    background-color:#0063D2;
+    transition: 1s;
+    cursor: pointer;
+  }
+
+  @media screen and (min-width:320px) and (max-width:768px){
+    .cover__content-button{
+     
+    }
+  }
